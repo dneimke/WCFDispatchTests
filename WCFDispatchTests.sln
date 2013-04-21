@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetServiceHost", "TweetServiceHost\TweetServiceHost.csproj", "{99AD921C-8CF3-4310-8727-043F4DFDC59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetClient", "TweetClient\TweetClient.csproj", "{1054BDCC-F133-42EB-8D5E-EF86438EE629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AD921C-8CF3-4310-8727-043F4DFDC59E}.Debug|x86.ActiveCfg = Debug|x86
+		{99AD921C-8CF3-4310-8727-043F4DFDC59E}.Debug|x86.Build.0 = Debug|x86
+		{99AD921C-8CF3-4310-8727-043F4DFDC59E}.Release|x86.ActiveCfg = Release|x86
+		{99AD921C-8CF3-4310-8727-043F4DFDC59E}.Release|x86.Build.0 = Release|x86
+		{1054BDCC-F133-42EB-8D5E-EF86438EE629}.Debug|x86.ActiveCfg = Debug|x86
+		{1054BDCC-F133-42EB-8D5E-EF86438EE629}.Debug|x86.Build.0 = Debug|x86
+		{1054BDCC-F133-42EB-8D5E-EF86438EE629}.Release|x86.ActiveCfg = Release|x86
+		{1054BDCC-F133-42EB-8D5E-EF86438EE629}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
